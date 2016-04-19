@@ -3,7 +3,7 @@ ECS154A Computer Architecture Assignments
 
 Specifications of each .circ file can be found within the corresponding directory PDF
 
-To view the files, download <a href=”http://www.cburch.com/logisim/”>Logisim</a>, copy the XML code into an editor, save the file, and change the extension to “.circ”. Then open the file in Logisim. 
+To view the files, download [Logisim](http://www.cburch.com/logisim/), copy the XML code into an editor, save the file, and change the extension to “.circ”. Then open the file in Logisim. 
 
 # Contents 
 HW1 contains:
